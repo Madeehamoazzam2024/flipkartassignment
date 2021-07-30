@@ -55,7 +55,9 @@ padding-bottom: 0.5rem;
 .container2{
     display: flex;
   }
-
+.fkk{
+    display: none;
+}
 .fk11{
 width: 25vw;
 height: 15vh;
@@ -176,6 +178,7 @@ padding-left: 1rem;
 }
 .boat{
     padding-bottom: 0.5rem;
+    width: 100%;
 }
 .container7{
     display: flex;
@@ -295,6 +298,9 @@ padding-left: 0.5rem;
 }
 .va{
     display: none;
+}
+.fk{
+    width: 100%;
 }
 @media (min-width:768px) {
     .container{
