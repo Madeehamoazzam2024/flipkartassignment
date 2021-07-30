@@ -1,0 +1,819 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    background-color: #0478D5;
+
+}
+.container1{
+    display: flex;
+}
+.fep{
+    height: 8vh;
+    width: 18vw;
+    padding-left: 2rem;
+}
+
+.notifi{
+    padding-top: 0.8rem;
+    height: 5vh;
+    width: 8vw;
+    padding-left: 9rem;
+    
+}
+.cart{
+    padding-top: 0.8rem;
+    height: 5vh;
+    width: 8vw;
+    padding-left: 1rem;
+    
+}
+.cart1{
+    display: none;
+}
+.more{
+    display: none;
+}
+.search1{
+    display: none;
+}
+.input1{
+    display: none;
+}
+.login{
+    display: none;
+}
+.input{
+padding-left: 1rem;
+padding-bottom: 0.5rem;
+}
+.search{
+    width: 90vw;
+    height: 3vh;
+}
+.container2{
+    display: flex;
+  }
+
+.fk11{
+width: 25vw;
+height: 15vh;
+}
+.fk22{
+    width: 17vw;
+    height: 10vh; 
+    padding-top: 0.7rem;
+   
+}
+.fk33{
+    width: 17vw;
+    height: 10vh; 
+    padding-top: 0.7rem;
+    padding-left: 0.3rem;
+}
+.fk44{
+    width: 17vw;
+    height: 10vh; 
+    padding-top: 0.7rem;
+    padding-left: 0.3rem;
+}
+.fk55{
+    width: 17vw;
+    height: 10vh; 
+    padding-top: 0.7rem;
+    padding-left: 0.3rem;
+}
+.container3{
+    display: flex;
+}
+.M{
+font-size: 12px;
+padding-left: 1rem;
+}
+.F{
+    font-size: 12px;
+    padding-left: 2rem;
+
+
+}
+.E{
+    font-size: 12px;
+    padding-left: 1rem;
+
+}
+.H{
+    font-size: 12px;
+    padding-left: 1rem;
+
+}
+.App{
+    font-size: 12px;
+    padding-left: 1rem;
+
+}
+.container4{
+    display: flex;
+}
+.fk66{
+    width: 17vw;
+    height: 10vh; 
+    padding-left: 0.3rem;
+}
+.fk77{
+    width: 17vw;
+    height: 10vh; 
+    padding-left: 0.3rem;
+}
+.fk88{
+    width: 17vw;
+    height: 10vh; 
+    padding-left: 0.3rem;
+}
+.fk99{
+    width: 17vw;
+    height: 10vh; 
+    
+    padding-left: 0.3rem;
+}
+.container5{
+    display: flex;
+    padding-bottom: 0.3rem;
+}
+.Tr{
+    font-size: 12px;
+    padding-left: 1rem;
+}
+.BT{
+    font-size: 12px;
+    padding-left: 1rem;
+}
+.Fur{
+    font-size: 12px;
+    padding-left: 1rem;
+}
+.Gro{
+    font-size: 12px;
+    padding-left: 1rem;
+}
+.container6{
+    display: flex;
+}
+.top1{
+   width: 25vw;
+   height: 12vh;
+   
+}
+.top2{
+    width: 25vw;
+    height: 11vh;
+    padding-left:2.5rem;
+}
+.top3{
+    width: 25vw;
+    height: 11vh;
+    padding-left: 2rem;
+}
+.boat{
+    padding-bottom: 0.5rem;
+}
+.container7{
+    display: flex;
+    font-size: 12px;
+}
+.TST{
+padding-left: 0.5rem;
+}
+.BSL{
+    padding-left: 0.3rem;
+
+}
+.BGD{
+    padding-left: 0.2rem;
+
+}
+.container8{
+    display: flex;
+    font-size: 12px;
+    color: forestgreen;
+}
+.BN{
+padding-left: 0.5rem;
+}
+.upto{
+padding-left: 4.5rem;
+}
+.from{
+padding-left: 2rem;
+}
+.container9{
+    display: flex;
+    font-size: 12px;
+    color: gray;
+    padding-bottom: 0.5rem;
+}
+.from1{
+padding-left: 00.5rem;
+}
+.nce{
+padding-left: 4.5rem;
+}
+.aha{
+    padding-left: 0.2rem;
+}
+.container10{
+    display: flex;
+    padding-bottom: 0.5rem;
+}
+.to1{
+height: 13vh;
+width:30vw;
+padding-left: 0.5rem;
+}
+.to2{
+    height: 13vh;
+    width: 30vw;
+padding-left: 0.5rem;
+
+}
+.to3{
+    height: 13vh;
+    width: 30vw;
+padding-left: 0.5rem;
+
+}
+.container11{
+    display: flex;
+}
+.to4{
+    height: 13vh;
+    width: 30vw;
+padding-left: 0.5rem;
+}
+.to5{
+    height: 13vh;
+    width: 30vw;
+padding-left: 0.5rem;
+}
+.to6{
+    height: 13vh;
+    width: 30vw;
+padding-left: 0.5rem;
+}
+.img1{
+    display: none;
+}
+.img2{
+    display: none;
+}
+.img3{
+    display: none;
+}
+.img4{
+    display: none;
+}
+.Tr1{
+    display: none;
+}
+.BT1{
+    display: none;
+}
+.Fur1{
+    display: none;
+}
+.Gro1{
+    display: none;
+}
+.topoffer{
+    display: none;
+}
+.bg{
+    display: none;
+}
+.top4{
+    display: none;
+}
+.va{
+    display: none;
+}
+@media (min-width:768px) {
+    .container{
+height: 8vh;
+width: 100%;
+    }
+    .fep{
+width: 7vw;
+height: 8vh;
+padding-left: 8rem;
+    }
+    .input{
+        display: none;
+    }
+    .search{
+        display: none;
+    }
+.notifi{
+    display: none;
+}
+.cart{
+    display: none;
+}
+.input1{
+    display: block;
+    padding-top: 0.5rem;
+    padding-left: 0.3rem;
+}
+.search1{
+    display: block;
+    height: 4vh;
+    width: 40vw;
+}
+.cart1{
+    display: block;
+    width: 9vw;
+    height: 8vh;
+    padding-left: 1rem;
+}
+.login{
+    display: block;
+    color: #0478D5;
+    height: 4vh;
+    width: 5vw;
+    border: none;
+    background-color: white;
+
+}
+.button{
+    padding-top: 0.6rem;
+    padding-left: 0.3rem;
+    
+}
+.more{
+    display: block;
+    width: 7vw;
+    height: 8vh;
+    padding-left: 1rem;
+}
+.fk{
+    display: none;
+}
+.fk11{
+height: 14vh;
+width: 12vw;
+padding-left: 0.5rem;
+}
+.fk22{
+    height: 10vh;
+    width: 8vw;
+    padding-left: 0.5rem;
+}
+.fk33{
+    height: 10vh;
+    width: 8vw;
+    padding-left:1rem;
+
+}
+.fk44{
+    height: 10vh;
+    width: 8vw;
+    padding-left: 1rem;
+
+}
+.fk55{
+    height: 10vh;
+    width: 8vw;
+    padding-left: 1rem;
+
+}
+.img1{
+    padding-top: 0.8rem;
+    display: block;
+    height: 10vh;
+    width: 8vw;
+    padding-left: 1rem;
+
+}
+.img2{
+    display: block;
+    height: 10vh;
+    width: 8vw;
+    padding-top: 0.8rem;
+    padding-left: 1rem;
+
+
+}
+.img3{
+    display: block;
+    height: 10vh;
+    width: 8vw;
+    padding-top: 0.8rem;
+    padding-left: 1rem;
+
+}
+.img4{
+    display: block;
+    height: 10vh;
+    width: 8vw;
+    padding-top: 0.8rem;
+    padding-left: 1rem;
+
+}
+.fk66{
+    display: none;
+}
+.fk77{
+    display: none;
+}
+.fk88{
+    display: none;
+}
+.fk99{
+    display: none;
+}
+.M{
+font-size: 12px;
+padding-left: 2.2rem;
+}
+.F{
+    font-size: 12px;
+padding-left: 3rem;
+}
+.E{
+    font-size: 12px;
+padding-left: 2rem;
+}
+.H{
+    font-size: 12px;
+padding-left: 2.2rem;
+}
+.App{
+    font-size: 12px;
+padding-left: 2.5rem;
+}
+.Tr1{
+    display: block;
+    font-size: 12px;
+    padding-left: 2.3rem;
+
+}
+.BT1{
+    display: block;
+    font-size: 12px;
+    padding-left: 2.2rem;
+}
+.Fur1{
+    display: block;
+    font-size: 12px;
+padding-left: 2rem;
+}
+.Gro1{
+    display: block;
+    font-size: 12px;
+padding-left: 2rem;
+}
+.Tr{
+    display: none;
+}
+.BT{
+    display: none;
+}
+.Fur{
+    display: none;
+}
+.Gro{
+    display: none;
+}
+.boat{
+    display: none;
+}
+.fkk{
+    width: 100%;
+    height:25vh ;
+    padding-bottom: 0.5rem;
+}
+.container3{
+    padding-bottom: 0.5rem;
+}
+.topoffer{
+display: block;
+font-size: 20px;
+padding-bottom: 0.3rem;
+}
+.container12{
+    display: flex;
+}
+.va{
+    display: block;
+    padding-bottom: 0.3rem;
+}
+.bg{
+    display: block;
+    width: 16vw;
+    height:18vh ;
+}
+.top1{
+width: 20vw;
+height: 18vh;
+padding-left: 0.3rem;
+}
+.top2{
+    width: 20vw;
+    height: 18vh;
+}
+.top3{
+    width: 20vw;
+    height: 18vh;
+}
+.top4{
+    display: block;
+    width: 12vw;
+    height: 18vh;
+    padding-left: 0.3rem;
+
+}
+.TST{
+padding-left: 9rem;
+}
+.BSL{
+padding-left: 5rem;
+}
+.BGD{
+    padding-left: 6rem;
+
+}
+.BN{
+    padding-left: 10rem;
+
+}
+.upto{
+    padding-left: 9rem;
+
+}
+.from{
+    padding-left: 8rem;
+
+}
+.from1{
+    padding-left: 10rem;
+
+}
+.nce{
+    padding-left: 7rem;
+
+}
+.aha{
+    padding-left: 4rem;
+
+}
+.container9{
+    padding-bottom: 1rem;
+}
+.to1{
+    height: 24vh;
+width: 30vw;
+padding-left: 1rem;
+}
+.to2{
+    height: 24vh;
+width: 30vw;
+padding-left: 1rem;
+
+}
+.to3{
+    height: 24vh;
+    width: 30vw;
+    padding-left: 1rem;
+
+}
+.to4{
+    height: 24vh;
+    width: 30vw;
+    padding-left: 1rem;
+
+}
+.to5{
+    height: 24vh;
+    width: 30vw;
+    padding-left: 1rem;
+
+}
+.to6{
+    height: 24vh;
+    width: 30vw;
+    padding-left: 1rem;
+
+}
+.container11{
+    padding-top: 1rem;
+}
+}
+@media (min-width:1024px) {
+    .container{
+        width: 100%;
+
+    }
+    .fk11{
+        height: 16vh;
+        width: 13vw;
+        padding-left: 0.5rem;
+        }
+        .fk22{
+            height: 12vh;
+            width: 10vw;
+            padding-left: 0.5rem;
+        }
+        .fk33{
+            height: 12vh;
+            width: 10vw;
+            padding-left: 0.5rem;
+        
+        }
+        .fk44{
+            height: 12vh;
+            width: 10vw;
+            padding-left: 0.5rem;
+        
+        }
+        .fk55{
+            height: 12vh;
+            width: 10vw;
+            padding-left: 0.5rem;
+        
+        }
+        .img1{
+            height: 12vh;
+            width: 10vw;
+            padding-left: 0.5rem;
+        }
+        .img2{
+            height: 12vh;
+            width: 10vw;
+            padding-left: 0.5rem;
+        }
+        .img3{
+            height: 12vh;
+            width: 10vw;
+            padding-left: 0.5rem;
+        }
+        .img4{
+            height: 12vh;
+            width: 10vw;
+            padding-left: 0.5rem;
+        }
+        .M{
+font-size: 17px;
+padding-left: 3rem;
+        }
+        .F{
+            font-size: 17px;
+            padding-left: 4.5rem;
+        }
+        .E{
+            font-size: 17px;
+            padding-left: 3rem;
+        }
+        .H{
+            font-size: 17px;
+            padding-left: 3rem;
+        }
+        .App{
+            font-size: 17px;
+            padding-left: 3rem;
+        }
+        .Tr1{
+            font-size: 17px;
+            padding-left: 3rem;
+        }
+        .BT1{
+            font-size: 17px;
+            padding-left: 3rem;
+        }
+        .Gro1{
+            font-size: 17px;
+            padding-left: 3rem;
+        }
+        .Fur1{
+            font-size: 17px;
+            padding-left: 3rem;
+        }
+        .fkk{
+            width: 100%;
+            height: 30vh;
+        }
+        .container3{
+            padding-bottom: 1rem;
+        }
+        .topoffer{
+            font-size:30px;
+        }
+        .bg{
+            display: block;
+            width: 18vw;
+            height:20vh ;
+        }
+        .top1{
+        width: 20vw;
+        height: 18vh;
+        padding-left: 0.3rem;
+        }
+        .top2{
+            width: 20vw;
+            height: 18vh;
+        }
+        .top3{
+            width: 20vw;
+            height: 18vh;
+        }
+        .top4{
+            display: block;
+            width: 14vw;
+            height: 18vh;
+            padding-left: 0.3rem;
+        
+        }
+        .TST{
+        padding-left: 13rem;
+        font-size: 18px;
+        }
+        .BSL{
+        padding-left: 5rem;
+        font-size: 18px;
+
+        }
+        .BGD{
+            padding-left: 5rem;
+            font-size: 18px;
+
+        }
+        .BN{
+            padding-left: 13rem;
+            font-size: 18px;
+
+        }
+        .upto{
+            padding-left: 13rem;
+            font-size: 18px;
+
+        }
+        .from{
+            padding-left: 8rem;
+            font-size: 18px;
+
+        }
+        .from1{
+            padding-left: 13rem;
+            font-size: 18px;
+
+        }
+        .nce{
+            padding-left: 9rem;
+            font-size: 18px;
+
+        }
+        .aha{
+            padding-left: 4rem;
+            font-size: 18px;
+
+        }
+        .container9{
+            padding-bottom: 1rem;
+        }
+        .to1{
+            height: 24vh;
+        width: 30vw;
+        padding-left: 1.5rem;
+        }
+        .to2{
+            height: 24vh;
+        width: 30vw;
+        padding-left: 1.5rem;
+        
+        }
+        .to3{
+            height: 24vh;
+            width: 30vw;
+            padding-left: 1.5rem;
+        
+        }
+        .to4{
+            height: 24vh;
+            width: 30vw;
+            padding-left: 1.5rem;
+        
+        }
+        .to5{
+            height: 24vh;
+            width: 30vw;
+            padding-left: 1.5rem;
+        
+        }
+        .to6{
+            height: 24vh;
+            width: 30vw;
+            padding-left: 1.5rem;
+        
+        }
+        .container11{
+            padding-top: 1rem;
+        }
+}
